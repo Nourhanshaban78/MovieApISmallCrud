@@ -1,67 +1,58 @@
-🎮 MVC CRUD Game – ASP.NET
+🎬 Movie API – ASP.NET Core CRUD
 📌 Project Overview
 
-This project is a CRUD-based ASP.NET MVC application that manages game data using a structured and clean architecture.
-It demonstrates core MVC concepts, database integration, and responsive UI design.
+This project is a RESTful CRUD API built with ASP.NET Core for managing movie data.
+It follows a clean, layered architecture to ensure scalability, maintainability, and clear separation of concerns.
 
-The application allows users to create, read, update, and delete game records efficiently using SQL Server.
-_________________________________________________________________________________________________________________________________________________________________________________________
+The API supports full CRUD operations and is designed to be consumed by web or mobile applications.
+____________________________________________________________________________________________________________________________________________________________________________________________
 ✨ Features
 
-Full CRUD operations for game entities
+Create, read, update, and delete movies
 
-Clean separation using MVC architecture
+RESTful API endpoints
 
-DTOs to manage data transfer and reduce coupling
+DTOs for clean data transfer
 
-Responsive UI using Bootstrap
+AutoMapper for object-to-object mapping
 
 SQL Server database integration
-_________________________________________________________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________________________________________________________________________________________________________________
 🛠️ Technologies Used
 Backend
 
-ASP.NET MVC
-
 ASP.NET Core
+
+ASP.NET Web API
 
 Entity Framework Core
 
 LINQ
 
-Frontend
-
-HTML
-
-CSS
-
-Bootstrap
+AutoMapper
 
 Database
 
 Microsoft SQL Server
-_________________________________________________________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________________________________________________________________________________________________________________
 🧠 Concepts & Skills Applied
 
-MVC (Model–View–Controller) Architecture
+RESTful API Design
 
-DTO (Data Transfer Object) Pattern
+Layered Architecture
 
-Entity Framework Core ORM
+DTO Pattern
+
+AutoMapper Configuration
 
 CRUD Operations
 
-Responsive UI Design
-
-Database Relationships & Queries
-_________________________________________________________________________________________________________________________________________________________________________________________
-
+Clean Code & Maintainability
+____________________________________________________________________________________________________________________________________________________________________________________________
 📂 Project Type
 
-Web Application
+Backend API
 
-MVC Pattern
+CRUD Application
 
-Educational / Practice Project
+Practice / Portfolio Project
